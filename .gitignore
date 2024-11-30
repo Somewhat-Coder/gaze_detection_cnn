@@ -3,4 +3,9 @@ augmented_images.npy
 augmented_labels.npy
 images.npy
 labels.npy
+images2.npy
+labels2.npy
 vgg_face_weights.h5
+augmented_images2.npy
+augmented_labels2.npy
+pretrainedfinal.h5
